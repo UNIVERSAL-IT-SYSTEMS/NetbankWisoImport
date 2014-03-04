@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+	<Categories>
+		<Category Name="Haushalt">
+			<Keyword Name="Edeka" Empfänger="Edeka"/>
+			<Keyword Name="PRECHTL" Empfänger="Edeka"/>
+		</Category>
+		<Category Name="Benzin">
+			<Keyword Name="Thrainer" Empfänger="Thrainer"/>
+		</Category>
+		<Category Name="Sport">
+			<Keyword Name="Wellergy" Empfänger="Wellergy"/>
+			<Keyword Name="DOMINIK SPIES" Empfänger="Dominik Spies"/>
+		</Category>
+		<Category Name="Kindergeld">
+			<Keyword Name="Familienkasse" Empfänger="Bundesagentur"/>
+		</Category>
+		<Category Name="Strom">
+			<Keyword Name="NATURWATT" Empfänger="Naturwatt"/>
+		</Category>
+		<Category Name="Nahrungsmittel">
+			<Keyword Name="KUERMEIER" Empfänger="Kürmeier"/>
+		</Category>
+		<Category Name="Betreuung">
+			<Keyword Name="KINDERGARTENVEREIN" Empfänger="Kindergartenverein Brannenburg"/>
+		</Category>
+		<Category Name="Miete">
+			<Keyword Name="Michael Binder" Empfänger="Binder"/>
+		</Category>
+		<Category Name="Einnahmen">
+			<Keyword Name="BETREUUNGSGELD" Empfänger="Bundeskasse"/>
+		</Category>
+		<Category Name="Versicherungen">
+			<Keyword Name="DEBEKA" Empfänger="Debeka"/>
+		</Category>
+		<Category Name="Umbuchung">
+			<Keyword Name="Küchenkredit" Empfänger="Joachim"/>
+		</Category>
+	</Categories>
+</Configuration>
