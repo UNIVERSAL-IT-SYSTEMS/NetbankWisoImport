@@ -7,7 +7,11 @@ namespace ConsoleApplication1
 {
 	public class Configuration
 	{
-		
+		/// <summary>
+		/// Comment
+		/// </summary>
+		public DateTime? LastWrite { get; set; }
+
 		public List<Category> Categories { get; set; }
 	}
 }

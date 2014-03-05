@@ -4,11 +4,65 @@
 		<Category Name="Haushalt">
 			<Keyword Name="Edeka" Empfänger="Edeka"/>
 			<Keyword Name="PRECHTL" Empfänger="Edeka"/>
+			<Keyword Name="Amazon"/>
+			<Keyword Name="Penny"/>
+			<Keyword Name="Rossmann"/>
+		</Category>
+		<Category Name="BücherCDsFilme">
+			<Keyword Name="Audible"/>
+			<Keyword Name="Lovefilm"/>
+		</Category>
+		<Category Name="Arzt und Medikamente">
+			<Keyword Name="SBK"/>
+			<Keyword Name="LUEDERS" Empfänger="Lüders"/>
+		</Category>
+		<Category Name="Telefon">
+			<Keyword Name="Kabel Deutschland" Empfänger="Kabel Deutschland"/>
+		</Category>
+		<Category Name="Kleidung">
+			<Keyword Name="Schuh Weiss"/>
+			<Keyword Name="ESPRIT" Empfänger="Esprit Online Shop"/>
+			<Keyword Name="IKO"/>
+		</Category>
+		<Category Name="Keine">
+			<Keyword Name="Landratsamt Rosenheim"/>
+			<Keyword Name="Ebersbach, Michael o. Waltr"/>
+			<Keyword Name="Michael Ebersbach"/>
+			<Keyword Name="FOTO-STUDIO SAHM"/>
+			<Keyword Name="Joachim Kreich"/>
+			<Keyword Name="Schlosserwirt"/>
+			<Keyword Name="DE8875090300000215000" Empfänger="KEB"/>
+			<Keyword Name="DE0820090500600141210 8" Empfänger="KEB"/>
+		</Category>
+		<Category Name="Leben">
+			<Keyword Name="Ikea"/>
+		</Category>
+		<Category Name="KaffeeKinoEssengehen">
+			<Keyword Name="Aibvision"/>
+		</Category>
+		<Category Name="Kind">
+			<Keyword Name="NKD"/>
+			<Keyword Name="Max u Moritz" Empfänger="Max und Moritz"/>
+		</Category>
+		<Category Name="Mobiltelefon">
+			<Keyword Name="Drillisch" Empfänger="Discotel"/>
+			<Keyword Name="O2 SAGT DANKE" Empfänger="o2Germany"/>
+		</Category>
+		<Category Name="GEZ-Gebühren">
+			<Keyword Name="Rundfunk ARD" Empfänger="GEZ"/>
+		</Category>
+		<Category Name="Zinsen">
+			<Keyword Name="Habenzinsen" Empfänger="Netbank"/>
 		</Category>
 		<Category Name="Benzin">
-			<Keyword Name="Thrainer" Empfänger="Thrainer"/>
+			<Keyword Name="Thrainer"/>
+			<Keyword Name="Shell"/>
+		</Category>
+		<Category Name="Gehalt">
+			<Keyword Name="Formware" Empfänger="Formware"/>
 		</Category>
 		<Category Name="Sport">
+			<Keyword Name="TSV BRANNENBURG"/>
 			<Keyword Name="Wellergy" Empfänger="Wellergy"/>
 			<Keyword Name="DOMINIK SPIES" Empfänger="Dominik Spies"/>
 		</Category>
@@ -20,6 +74,8 @@
 		</Category>
 		<Category Name="Nahrungsmittel">
 			<Keyword Name="KUERMEIER" Empfänger="Kürmeier"/>
+			<Keyword Name="HODO Lebensmittel" Empfänger="Bofrost"/>
+			<Keyword Name="Netto"/>
 		</Category>
 		<Category Name="Betreuung">
 			<Keyword Name="KINDERGARTENVEREIN" Empfänger="Kindergartenverein Brannenburg"/>
